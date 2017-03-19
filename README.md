@@ -2,5 +2,5 @@
 compare to raster images 
 dependencies:
 pillow
-usage 
+usage:
 compare.py file1 file2
